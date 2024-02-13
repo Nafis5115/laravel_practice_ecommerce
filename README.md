@@ -1,6 +1,6 @@
 <h1>After clonning project run these commands:</h1>
 
-cd project-directory
+# cd project-directory
 # composer install
 # php artisan key:generate
 # php artisan storage:link
