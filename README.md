@@ -15,4 +15,5 @@ DB_PASSWORD=
 (Start xampp and go to phpMyAdmin and create a database named ecommerce)
 
 # php artisan migrate
-# php artisan Serve
+# npm install
+# npm run dev
